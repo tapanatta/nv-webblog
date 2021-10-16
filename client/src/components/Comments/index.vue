@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2> Comment Show </h2>
+        <h2> Comment my blog </h2>
 
         <!-- <p><button v-on:click="logout"> Logout </button></p> -->
 
